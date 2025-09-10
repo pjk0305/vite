@@ -8,9 +8,8 @@
     - HTML, CSS 기반으로 웹사이트의 기본 레이아웃 설계하고, 웹 표준 및 웹 접근성을 준수하여 작업합니다. [ARIA(Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
     출처: https://webstoryboy.co.kr/1924 [WEBSTORYBOY:티스토리]
 
-# 포트폴리오 사이트 만들기 시작
+# 포트폴리오 사이트 만들기 시작 1일차
 
-    1일차
     vite를 이용하여 사이트를 제작 및 불필요한 요소 제거함으로써 기본 틀 잡기
 
     - vite를 설치합니다. 'npm create vite@latest'
